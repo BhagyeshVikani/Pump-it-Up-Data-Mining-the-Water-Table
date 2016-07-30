@@ -44,4 +44,13 @@ Goal is to predict the operating condition of a waterpoint for each record in th
 * waterpoint_type - The kind of waterpoint
 * waterpoint_type_group - The kind of waterpoint
 
+### Distribution of Labels
+The labels in this dataset are simple. There are three possible values:
+
+* functional - the waterpoint is operational and there are no repairs needed
+* functional needs repair - the waterpoint is operational, but needs repairs
+* non functional - the waterpoint is not operational
+
+----
+
 Link for DataSet : https://www.drivendata.org/competitions/7/data/
