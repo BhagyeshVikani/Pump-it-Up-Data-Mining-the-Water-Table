@@ -1,7 +1,5 @@
 # Pump-it-Up-Data-Mining-the-Water-Table
 
-----
-
 Goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
 
 * amount_tsh - Total static head (amount water available to waterpoint)
